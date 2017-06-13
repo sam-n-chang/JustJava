@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <string name="chocolate">巧克力</string>
+    <string name="chocolate_added">巧克力已選</string>
+    <string name="hint_msg">姓名</string>
+    <string name="max_order_msg">最多可購買100杯</string>
+    <string name="min_order_msg">最少應購買1杯</string>
+    <string name="order">下單</string>
+    <string name="order_name">姓名：<xliff:g id="name" example="Sam">%s</xliff:g></string>
+    <string name="order_quantity">數量：<xliff:g id="quantity" example="2">%d</xliff:g></string>
+    <string name="order_summary">訂單概要</string>
+    <string name="order_total">縂金額：<xliff:g id="price" example="$10">%s</xliff:g></string>
+    <string name="press_to_continue">繼續</string>
+    <string name="quantity">數量</string>
+    <string name="toppings">配料</string>
+    <string name="welcome_msg">歡迎光臨 Just Java</string>
+    <string name="whipped_cream">鮮奶油</string>
+    <string name="whipped_cream_added">鮮奶油已選</string>
+</resources>
